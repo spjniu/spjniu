@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=360&text=Jeongin+Seo&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI+%7C+Computer+Vision+Developer&descSize=22&descAlign=50&descAlignY=62&animation=fadeIn)
 
 ---
-#### 👋 About Me
+### 👋 About Me
 - AI / Computer Vision 기반 운동 자세 분석 프로젝트 개발  
 - MediaPipe · PyTorch · LSTM을 활용한 시계열 모델링  
 
-#### 🦾 Skills
+### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
@@ -26,7 +26,7 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-#### 🚀 Projects
+### 🚀 Projects
 - 🏋️ **AI 기반 운동 자세 분석 시스템**
   - MediaPipe Pose + LSTM 기반 오버헤드 프레스 자세 판별
   - 사용자 시계열 데이터와 정자세 데이터 비교 (MSE / Correlation)
