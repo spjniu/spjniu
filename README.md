@@ -10,6 +10,7 @@
 
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C.svg?&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) 
 
 **🛠️ Infra and Tools**
@@ -22,6 +23,9 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B.svg?&style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D.svg?&style=for-the-badge&logo=arduino&logoColor=white)
 
 #### 🧠 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
