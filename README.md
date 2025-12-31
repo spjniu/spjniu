@@ -1,17 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=waving&
-color=gradient&
-customColorList=0,2,5&
-height=360&
-text=Jeongin+Seo&
-fontSize=70&
-fontAlign=50&
-fontAlignY=45&
-desc=AI+%7C+Computer+Vision+Developer&
-descSize=22&
-descAlign=50&
-descAlignY=62&
-animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&height=360&text=Jeongin+Seo&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI+%7C+Computer+Vision+Developer&descSize=22&descAlign=50&descAlignY=62&animation=fadeIn)
 
 ---
 #### 👋 About Me
