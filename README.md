@@ -32,4 +32,4 @@
 - 🏋️ **AI 기반 운동 자세 분석 시스템**
   - MediaPipe Pose + LSTM 기반 맨몸운동 자세 판별
   - 사용자 시계열 데이터와 정자세 데이터 비교 (MSE / Correlation)
-  - Arduino 연동으로 실시간 피드백 제공
+  - 실시간 피드백 제공
