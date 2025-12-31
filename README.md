@@ -19,6 +19,8 @@
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white) 
 ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🧠 AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -28,6 +30,6 @@
 
 ### 🚀 Projects
 - 🏋️ **AI 기반 운동 자세 분석 시스템**
-  - MediaPipe Pose + LSTM 기반 오버헤드 프레스 자세 판별
+  - MediaPipe Pose + LSTM 기반 맨몸운동 자세 판별
   - 사용자 시계열 데이터와 정자세 데이터 비교 (MSE / Correlation)
-  - Flask + Arduino 연동으로 실시간 피드백 제공
+  - Arduino 연동으로 실시간 피드백 제공
