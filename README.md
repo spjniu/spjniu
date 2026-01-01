@@ -33,4 +33,9 @@
 
 ---
 
+### 🚩 Algorithm Ranking
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=jniw)](https://solved.ac/profile/jniw)
+
+---
+
 <sub>Focused on practical AI systems bridging real-world motion and computation.</sub>
